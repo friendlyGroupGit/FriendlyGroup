@@ -154,6 +154,7 @@ h2 {
 
 .box{
 background-image: url(futherMORE.png); 
+padding: 400px 200px;
 background-size: cover;
 background-position: right bottom;
 }
