@@ -144,11 +144,17 @@ input {
   transition: 500ms;
 }
 
+h1{
+color: #ffffff;
+}
 
 h2 {
   color: #2800ff;
 }
 
+.box{
+background-image: url(futherMORE.png); 
+}
 /* Interactive image */
 .illustration:active {
   transform: translateY(5px);
