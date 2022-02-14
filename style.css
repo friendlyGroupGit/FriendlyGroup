@@ -154,6 +154,8 @@ h2 {
 
 .box{
 background-image: url(futherMORE.png); 
+background-size: cover;
+background-position: right bottom;
 }
 /* Interactive image */
 .illustration:active {
